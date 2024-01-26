@@ -1,13 +1,13 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mansour Alkmim's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mansour Alkmim
+Acoustic Engineer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mansour.alk@gmail.com">mansour.alk@gmail.com</a>
+| <a href="https://www.linkedin.com/in/mansour-alkmim-466a1289/">Linkedin profile</a>
 </div>
 
 
